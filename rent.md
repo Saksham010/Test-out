@@ -72,7 +72,7 @@ Step 8:
 Once done, Run the below command to open the dapp on your locahost:3000
   
 ```shell
-  npm start
+npm start
 ```
 
 Open localhost:3000 to view your project.
