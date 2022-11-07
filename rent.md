@@ -1,7 +1,7 @@
 
 # Wraprotocol
 
-## How to Start the <b>Wraprotocol</b> Dapp:
+## How to Start the Wraprotocol Dapp:
 
 Prerequisites:
 
@@ -45,7 +45,7 @@ Create your Piñata API key:
 
 <b> Make sure to save your API key and secret in a safe place</b>
 
-Step 6:
+Step 5:
 
 Sign up for your free [Alchemy](https://dashboard.alchemyapi.io/signup/?a=dabb74c129) account.
 
@@ -54,7 +54,7 @@ Sign up for your free [Alchemy](https://dashboard.alchemyapi.io/signup/?a=dabb74
 - Choose "Polygon" as the chain and "Mumbai" as the test network.
 - Copy the <b>Api Key</b>, and store it somewhere safe.
 
-Step 7:
+Step 6:
 
 Open the .env file and these variable there.
 
@@ -67,14 +67,17 @@ REACT_APP_PINATA_SECRET="<YOUR_PINATA_SECRET>"
 
 <b> <YOUR_PRIVATE_KEY> can be found by exporting your Private key on Metamask </b>
 
-Step 8: 
+Step 7: 
 
-Once done, Run the below command to open the dapp on your ocahost:3000
+Once done, Run the below command to open the dapp on your locahost:3000
   
 ```shell
   npm start
 ```
-  
+
+Open localhost:3000 to view your project.
+ 
+### Hurray! Now go have fun with Wraprotocol Dapp 🥳
   
   
   
