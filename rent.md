@@ -33,7 +33,7 @@ Make a .env file in your Root folder and run this command
 npm install dotenv --save
 ```
 
-Step 4:
+Step 5:
 
 Sign up for a free [Piñata](https://pinata.cloud/signup) account and verify your email.
 
@@ -45,7 +45,7 @@ Create your Piñata API key:
 
 <b> Make sure to save your API key and secret in a safe place</b>
 
-Step 5:
+Step 6:
 
 Sign up for your free [Alchemy](https://dashboard.alchemyapi.io/signup/?a=dabb74c129) account.
 
@@ -54,7 +54,7 @@ Sign up for your free [Alchemy](https://dashboard.alchemyapi.io/signup/?a=dabb74
 - Choose "Polygon" as the chain and "Mumbai" as the test network.
 - Copy the <b>Api Key</b>, and store it somewhere safe.
 
-Step 6:
+Step 7:
 
 Open the .env file and these variable there.
 
@@ -67,7 +67,7 @@ REACT_APP_PINATA_SECRET="<YOUR_PINATA_SECRET>"
 
 <b> <YOUR_PRIVATE_KEY> can be found by exporting your Private key on Metamask </b>
 
-Step 7: 
+Step 8: 
 
 Once done, Run the below command to open the dapp on your locahost:3000
   
