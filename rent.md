@@ -1,7 +1,7 @@
 
 # Wraprotocol
 
-## How to Start the Wraprotocol Dapp:
+## How to Start the <b>Wraprotocol</b> Dapp:
 
 Prerequisites:
 
